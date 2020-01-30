@@ -1,0 +1,31 @@
+{
+  "name": "react-native-autostarter",
+  "title": "React Native AutoStarter",
+  "version": "1.0.3",
+  "description": "A wrapper of AutoStarter android library",
+  "types": "index.d.ts",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karlmarxlopez/react-native-autostarter.git",
+    "baseUrl": "https://github.com/karlmarxlopez/react-native-autostarter"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": {
+    "name": "Karl Marx Lopez",
+    "email": "karlmarx.webdev@gmail.com"
+  },
+  "license": "MIT",
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "react": "^16.8.1",
+    "react-native": ">=0.59.0-rc.0 <1.0.x"
+  },
+  "devDependencies": {
+    "react": "^16.8.3",
+    "react-native": "^0.59.10"
+  }
+}
