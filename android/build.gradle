@@ -73,7 +73,7 @@ repositories {
 dependencies {
     //noinspection GradleDynamicVersion
     implementation 'com.facebook.react:react-native:+'  // From node_modules
-    implementation 'com.github.judemanutd:autostarter:1.0.7'
+    implementation 'com.github.judemanutd:autostarter:1.0.8'
 }
 
 def configureReactNativePom(def pom) {
