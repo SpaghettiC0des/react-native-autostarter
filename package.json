@@ -1,7 +1,7 @@
 {
   "name": "react-native-autostarter",
   "title": "React Native AutoStarter",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A wrapper of AutoStarter android library",
   "types": "index.d.ts",
   "main": "index.js",
